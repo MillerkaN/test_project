@@ -2,4 +2,5 @@ Hello
 Good Morning!
 Good day!
 Bad day!
+Sunny ^^
 
